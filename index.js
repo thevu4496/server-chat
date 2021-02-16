@@ -42,6 +42,6 @@ io.on('connection', function(socket) {
 
 });
 
-app.get('/', (req, res) => {![](https://viblo.asia/uploads/388d121e-72d0-4fc0-b946-bd4f3e125f94.png)
+app.get('/', (req, res) => {
     res.send("Home page. Server running okay.");
 })
