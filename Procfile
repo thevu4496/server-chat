@@ -1,2 +1,1 @@
-web: heroku run rails console 
-node index.js
+web: node index.js
